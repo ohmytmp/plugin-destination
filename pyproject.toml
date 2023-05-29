@@ -20,7 +20,7 @@ classifiers = [
 ]
 
 dependencies = [
-  "ohmytmp",
+  "ohmytmp>=0.0.5",
 ]
 
 [tool.poetry]
